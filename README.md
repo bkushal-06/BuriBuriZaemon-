@@ -92,8 +92,9 @@ npm start
 ```
 
 Frontend will run at 👉 http://localhost:3000
+---
 
-🔹 Features Demo
+###🔹 Features Demo
 
 📑 Upload a PDF/DOC → get contradiction report
 
