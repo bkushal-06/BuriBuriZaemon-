@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  backend:
+    build: ./backend
+    container_name: cfo-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+    environment:
+      - FLEXPRICE_API_KEY=your_flexprice_key
+      - PATHWAY_API_KEY=your_pathway_key
+    restart: always
