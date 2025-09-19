@@ -46,27 +46,6 @@ CFO Helper has **two AI-powered modules**:
 
 ---
 
-## 🔹 Project Structure  
-
-cfo-helper/
-│── backend/
-│ │── app/
-│ │ ├── main.py
-│ │ ├── routers/
-│ │ │ ├── doc_checker.py
-│ │ │ ├── cfo_helper.py
-│ │ ├── services/
-│ │ │ ├── nlp.py
-│ │ │ ├── finance.py
-│ │ └── models/schemas.py
-│ │── requirements.txt
-│ │── Dockerfile
-│── docker-compose.yml
-│── frontend/ (React UI)
-
-
----
-
 ## 🔹 Getting Started  
 
 ### 1️⃣ Clone the repo  
@@ -94,7 +73,7 @@ npm start
 Frontend will run at 👉 http://localhost:3000
 ---
 
-###🔹 Features Demo
+##🔹 Features Demo
 
 📑 Upload a PDF/DOC → get contradiction report
 
