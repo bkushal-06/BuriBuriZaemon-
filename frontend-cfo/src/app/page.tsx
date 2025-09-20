@@ -1,14 +1,22 @@
-import Image from "next/image";
-import { FontDemo } from "@/components/font-demo";
-import { BgPattern } from "@/components/bgPattern";
+import { Navbar } from "@/components/navbar"
+import { HeroSection } from "@/components/hero-section"
+import { FeaturesSection } from "@/components/features-section"
+import { TestimonialsSection, PricingSection } from "@/components/testimonials-pricing"
+import { CTASection, Footer } from "@/components/cta-footer"
+import { BgPattern } from "@/components/bgPattern"
 
 export default function Home() {
   return (
-    <main>
-      <BgPattern>
-        <p>hi</p>
-        
-      </BgPattern>
-    </main>
+    <BgPattern>
+      <main>
+        <Navbar />
+        <HeroSection />
+        <FeaturesSection />
+        <TestimonialsSection />
+        <PricingSection />
+        <CTASection />
+        <Footer />
+      </main>
+    </BgPattern>
   );
 }
