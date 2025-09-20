@@ -1,0 +1,33 @@
+name : Zaemon
+domain: ai as service/agent as service
+model1: A Agentic CFO Platform with feature as to get detailed pictorial analysed report from the lower tier employes changes are reflected in realtime by ai models
+you can mange the tier and upgrade the credits by usage 
+"Smart Doc Checker & CFO Helper"
+
+Tagline:
+"Your AI-powered platform for clearing policy conflicts and simulating finance scenarios—trusted by organizations of all sizes."
+
+"Automate document conflict checks, run financial scenario simulations, and keep your organization compliant and future-ready with live monitoring, reporting, and transparent usage billing."
+
+Core Features Section
+Feature	What it Does
+Upload & Check Docs	Instantly upload rules, contracts, or policy docs and let AI flag contradictions.
+Scenario Simulator	Adjust hiring, spending, or pricing to see budget outcomes in real time.
+Automatic Monitoring	Detect external policy/document updates for proactive alerts.
+Usage-based Billing	Transparent, pay-only-for-what-you-use Flexprice system.
+Export/Share Reports	Download or share actionable reports for both modules.
+4. How It Works (Concise Steps)
+Step 1: Sign up or log in securely.
+
+Step 2: Choose either Doc Checker or CFO Helper.
+
+Step 3:
+
+For Doc Checker: Upload docs → Click “Check” → Review conflicts and suggested fixes.
+
+For CFO Helper: Slide scenario levers → Click “Simulate” → Instantly see forecasts and runway.
+
+Step 4: Export or share your insights and reports.
+
+Step 5: Credits used and balance clearly shown.
+
